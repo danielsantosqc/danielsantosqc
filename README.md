@@ -14,7 +14,7 @@
 
 #
 
-<div style="display: flex; align-items: center; justify-content: center;"  width="100%">
+<div style="display: flex; align-items: center; justify-content: center;" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="center" height="30px" width="50px"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" align="center" height="120px" width="50px"/>
